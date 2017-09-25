@@ -1,29 +1,13 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+A Simple VR experience made with unity (Standard VR assets, Cross-Platform). 
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+You see beautiful natural scenery at night. 
+There are animals standing and you have a horse. Nice fire. 
+And then you get annoyed by robot mosquitos that you 
+need to shoot down with electromagnetic waves that have the right frequency.
+(GDD included).
