@@ -1,0 +1,6 @@
+Sep 27 2017 - Wednesday:
+
+* I worked on the mosquito behavior. Now it dies after you click on it. 
+* the reticle and VR input stuff are working. 
+* Commited the changes before I start experimenting with trees and fire effects.
+*I might have an electric zap effects when the mosequitos are shot :)
