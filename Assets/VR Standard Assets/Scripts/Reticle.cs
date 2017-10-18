@@ -9,7 +9,7 @@ namespace VRStandardAssets.Utils
     // surface of a VRInteractiveItem as determined by the VREyeRaycaster.
     public class Reticle : MonoBehaviour
     {
-        [SerializeField] private float m_DefaultDistance = 5f;      // The default distance away from the camera the reticle is placed.
+        [SerializeField] private float m_DefaultDistance = 10f;      // The default distance away from the camera the reticle is placed.
         [SerializeField] private bool m_UseNormal;                  // Whether the reticle should be placed parallel to a surface.
         [SerializeField] private Image m_Image;                     // Reference to the image component that represents the reticle.
         [SerializeField] private Transform m_ReticleTransform;      // We need to affect the reticle's transform.

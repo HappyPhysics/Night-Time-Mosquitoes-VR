@@ -19,6 +19,15 @@ need to shoot down with electromagnetic waves that have the right frequency.
 * Sound for mosquito blast is added. 
 *Tree scale randomizer is added. 
 *tested things with the oculus. 
-** I want to add more animals
-** Add mosquito sounds. 
-** Add teleportation movement with the camping ground 
+** TODO I want to add more animals
+** TODO Add mosquito sounds. 
+** TODO Add teleportation movement with the camping ground. 
+
+10/18/2017 Wednesday:
+*pretty much finished as a prototype. might add some finishing touches later.
+* used VRstandard assets and steamVR. 
+*laser pointer from controllers in order to shoot down mosquitos.
+*made a particles system in addition to the fire. 
+*used reticle to point the laser pointer. 
+*could play some more with the concept of the game. Add physics-related things to it.
+
