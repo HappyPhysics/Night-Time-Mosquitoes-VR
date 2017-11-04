@@ -6,7 +6,7 @@ using VRStandardAssets.Utils;
 
 public class MosquitoController : MonoBehaviour {
     [SerializeField] float mosquitoSpeed = 2.0f;
-    [SerializeField] float MinimumDistance = 0.3f;
+    [SerializeField] float MinimumDistance = 0.35f;
     [SerializeField] GameObject plasmaExplosion;
     private VRInteractiveItem m_InteractiveItem;
 
